@@ -1,0 +1,12 @@
+{
+    "comps": [
+        {
+            "id": "club",
+            "name": "VSA 2023 Club Class",
+            "short": "Club Class",
+            "task": "https://www.soaringspot.com/en_gb/2023-victorian-state-championships-bendigo-2023/results/club",
+            "colour": "#0074D9"
+        }
+    ],
+    "gliders": "https://raw.githubusercontent.com/NeilMC311/vsa2023/main/glidersClub"
+}
